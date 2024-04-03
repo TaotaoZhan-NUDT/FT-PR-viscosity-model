@@ -1,0 +1,6 @@
+constants==2023.2.0
+numpy==1.23.3
+pandas==1.4.3
+phasepy==0.0.52
+scipy==1.9.1
+thermo==0.2.26

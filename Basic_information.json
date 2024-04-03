@@ -1,0 +1,745 @@
+[
+    {
+        "identifier": {
+            "cas": "74-82-8",
+            "name": "n-methane",
+            "iupac_name": "methane",
+            "smiles": "C",
+            "inchi": "InChI=1S/CH4/h1H4",
+            "formula": "CH4"
+        },
+        "molarweight": 16.043,
+        "Tc": 190.56,
+        "Pc": 45.99,
+        "Vc": 98.6,
+        "Zc": 0.286,
+        "omega": 0.012,
+        "HC": 4,
+        "ita_c": 154.85544933768986
+    },
+    {
+        "identifier": {
+            "cas": "74-84-0",
+            "name": "n-ethane",
+            "iupac_name": "ethane",
+            "smiles": "CC",
+            "inchi": "InChI=1S/C2H6/c1-2/h1-2H3",
+            "formula": "C2H6"
+        },
+        "molarweight": 30.07,
+        "Tc": 305.32,
+        "Pc": 48.72,
+        "Vc": 145.5,
+        "Zc": 0.279,
+        "omega": 0.100,
+        "HC": 3,
+        "ita_c": 218.0834897548493
+    },
+    {
+        "identifier": {
+            "cas": "74-98-6",
+            "name": "n-propane",
+            "iupac_name": "propane",
+            "smiles": "CCC",
+            "inchi": "InChI=1S/C3H8/c1-3-2/h3H2,1-2H3",
+            "formula": "C3H8"
+        },
+        "molarweight": 44.097,
+        "Tc": 369.83,
+        "Pc": 42.48,
+        "Vc": 200,
+        "Zc": 0.276,
+        "omega": 0.152,
+        "HC": 2.6667,
+        "ita_c": 247.312
+    },
+    {
+        "identifier": {
+            "cas": "106-97-8",
+            "name": "n-butane",
+            "iupac_name": "butane",
+            "smiles": "CCCC",
+            "inchi": "InChI=1S/C4H10/c1-3-4-2/h3-4H2,1-2H3",
+            "formula": "C4H10"
+        },
+        "molarweight": 58.123,
+        "Tc": 425.12,
+        "Pc": 37.96,
+        "Vc": 255,
+        "Zc": 0.274,
+        "omega": 0.200,
+        "ita_c": 257.682
+    },
+    {
+        "identifier": {
+            "cas": "109-66-0",
+            "name": "n-pentane",
+            "iupac_name": "pentane",
+            "smiles": "CCCCC",
+            "inchi": "InChI=1S/C5H12/c1-3-5-4-2/h3-5H2,1-2H3",
+            "formula": "C5H12"
+        },
+        "molarweight": 72.15,
+        "Tc": 469.7,
+        "Pc": 33.7,
+        "Vc": 313,
+        "Zc": 0.27,
+        "omega": 0.252,
+        "ita_c": 258.651
+    },
+    {
+        "identifier": {
+            "cas": "110-54-3",
+            "name": "n-hexane",
+            "iupac_name": "hexane",
+            "smiles": "CCCCCC",
+            "inchi": "InChI=1S/C6H14/c1-3-5-6-4-2/h3-6H2,1-2H3",
+            "formula": "C6H14"
+        },
+        "molarweight": 86.177,
+        "Tc": 507.60,
+        "Pc": 30.25,
+        "Vc": 371,
+        "Zc": 0.266,
+        "omega": 0.301,
+        "ita_c": 257.841
+    },
+    {
+        "identifier": {
+            "cas": "142-82-5",
+            "name": "n-heptane",
+            "iupac_name": "heptane",
+            "smiles": "CCCCCCC",
+            "inchi": "InChI=1S/C7H16/c1-3-5-7-6-4-2/h3-7H2,1-2H3",
+            "formula": "C7H16"
+        },
+        "molarweight": 100.204,
+        "Tc": 540.2,
+        "Pc": 27.4,
+        "Vc": 428,
+        "Zc": 0.261,
+        "omega": 0.35,
+        "ita_c": 254.303
+    },
+    {
+        "identifier": {
+            "cas": "111-65-9",
+            "name": "n-octane",
+            "iupac_name": "octane",
+            "smiles": "CCCCCCCC",
+            "inchi": "InChI=1S/C8H18/c1-3-5-7-8-6-4-2/h3-8H2,1-2H3",
+            "formula": "C8H18"
+        },
+        "molarweight": 114.231,
+        "Tc": 568.7,
+        "Pc": 24.9,
+        "Vc": 486,
+        "Zc": 0.256,
+        "omega": 0.4,
+        "ita_c": 256.174
+    },
+    {
+        "identifier": {
+            "cas": "124-18-5",
+            "name": "n-decane",
+            "iupac_name": "decane",
+            "smiles": "CCCCCCCCCC",
+            "inchi": "InChI=1S/C10H22/c1-3-5-7-9-10-8-6-4-2/h3-10H2,1-2H3",
+            "formula": "C10H22"
+        },
+        "molarweight": 142.285,
+        "Tc": 617.7,
+        "Pc": 21.1,
+        "Vc": 561.35,
+        "Zc": 0.231,
+        "omega": 0.492,
+        "HC": 2.2000,
+        "ita_c": 255.69772254564504
+    },
+    {
+        "identifier": {
+            "cas": "1678-92-8",
+            "name": "propylcyclohexane",
+            "iupac_name": "propylcyclohexane",
+            "smiles": "C",
+            "inchi": "InChI=",
+            "formula": "C9H18"
+        },
+        "molarweight": 126.242,
+        "Tc": 623.48,
+        "Pc": 26.13,
+        "Vc": 506.16,
+        "Zc": 0.255,
+        "omega": 0.374
+    },
+    {
+        "identifier": {
+            "cas": "103-65-1",
+            "name": "propylbenzene",
+            "iupac_name": "propylbenzene",
+            "smiles": "CCCc1ccccc1",
+            "inchi": "InChI=1S/C9H12/c1-2-6-9-7-4-3-5-8-9/h3-5,7-8H,2,6H2,1H3",
+            "formula": "C9H12"
+        },
+        "molarweight": 120.194,
+        "Tc": 638.35,
+        "Pc": 32,
+        "Vc": 440,
+        "Zc": 0.265,
+        "omega": 0.344
+    },
+    {
+        "identifier": {
+            "cas": "1120-21-4",
+            "name": "n-undecane",
+            "iupac_name": "undecane",
+            "smiles": "CCCCCCCCCCC",
+            "inchi": "InChI=1S/C11H24/c1-3-5-7-9-11-10-8-6-4-2/h3-11H2,1-2H3",
+            "formula": "C11H24"
+        },
+        "molarweight": 156.312,
+        "Tc": 639,
+        "Pc": 19.5,
+        "Vc": 619.2,
+        "Zc": 0.227,
+        "omega": 0.53,
+        "HC": 2.1818,
+        "ita_c": 245.70938811662919
+    },
+    {
+        "identifier": {
+            "cas": "108-67-8",
+            "name": "1,3,5-trimethylbenzene",
+            "iupac_name": "1,3,5-trimethylbenzene",
+            "smiles": "CC1=CC(=CC(=C1)C)C",
+            "inchi": "InChI=1S/C9H12/c1-7-4-8(2)6-9(3)5-7/h4-6H,1-3H3",
+            "formula": "C9H12"
+        },
+        "molarweight": 120.194,
+        "Tc": 637.3,
+        "Pc": 31.27,
+        "Vc": 433,
+        "Zc": 0.256,
+        "omega": 0.399
+    },
+    {
+        "identifier": {
+            "cas": "54411-01-7",
+            "name": "1-methyl-2-pentylcyclohexane",
+            "iupac_name": "1-methyl-2-pentylcyclohexane",
+            "smiles": "C",
+            "inchi": "InChI=",
+            "formula": "C9H12"
+        },
+        "molarweight": 168.323,
+        "Tc": 692.75,
+        "Pc": 20.25,
+        "Vc": 688.62,
+        "Zc": 0.242,
+        "omega": 0.531
+    },
+    {
+        "identifier": {
+            "cas": "112-40-3",
+            "name": "n-dodecane",
+            "iupac_name": "dodecane",
+            "smiles": "CCCCCCCCCCCC",
+            "inchi": "InChI=1S/C12H26/c1-3-5-7-9-11-12-10-8-6-4-2/h3-12H2,1-2H3",
+            "formula": "C12H26"
+        },
+        "molarweight": 170.338,
+        "Tc": 658,
+        "Pc": 18.2,
+        "Vc": 677.62,
+        "Zc": 0.225,
+        "omega": 0.576,
+        "HC": 2.1667,
+        "ita_c": 245.0562808040699
+    },
+    {
+        "identifier": {
+            "cas": "629-50-5",
+            "name": "tridecane",
+            "iupac_name": "tridecane",
+            "smiles": "CCCCCCCCCCCCC",
+            "inchi": "InChI=1S/C13H28/c1-3-5-7-9-11-13-12-10-8-6-4-2/h3-13H2,1-2H3",
+            "formula": "C13H28"
+        },
+        "molarweight": 184.365,
+        "Tc": 675.00,
+        "Pc": 16.8,
+        "Vc": 734.46,
+        "Zc": 0,
+        "omega": 0.617,
+        "HC": 2.1538,
+        "ita_c": 245.55452376467704
+    },
+    {
+        "identifier": {
+            "cas": "629-59-4",
+            "name": "n-tetradecane",
+            "iupac_name": "tetradecane",
+            "smiles": "CCCCCCCCCCCCCC",
+            "inchi": "InChI=1S/C14H30/c1-3-5-7-9-11-13-14-12-10-8-6-4-2/h3-14H2,1-2H3",
+            "formula": "C14H30"
+        },
+        "molarweight": 198.392,
+        "Tc": 693,
+        "Pc": 15.7,
+        "Vc": 830,
+        "Zc": 0.226,
+        "omega": 0.643,
+        "HC": 2.1429,
+        "ita_c": 233.76578131662853
+    },
+    {
+        "identifier": {
+            "cas": "629-62-9",
+            "name": "pentadecane",
+            "iupac_name": "pentadecane",
+            "smiles": "CCCCCCCCCCCCCCC",
+            "inchi": "InChI=1S/C15H32/c1-3-5-7-9-11-13-15-14-12-10-8-6-4-2/h3-15H2,1-2H3",
+            "formula": "C15H32"
+        },
+        "molarweight": 212.419,
+        "Tc": 708.00,
+        "Pc": 14.8,
+        "Vc": 855.54,
+        "Zc": 0.226,
+        "omega": 0.686,
+        "HC": 2.1333,
+        "ita_c": 225.8255187099981
+    },
+    {
+        "identifier": {
+            "cas": "544-76-3",
+            "name": "n-hexadecane",
+            "iupac_name": "hexadecane",
+            "smiles": "CCCCCCCCCCCCCCCC",
+            "inchi": "InChI=1S/C16H34/c1-3-5-7-9-11-13-15-16-14-12-10-8-6-4-2/h3-16H2,1-2H3",
+            "formula": "C16H34"
+        },
+        "molarweight": 226.446,
+        "Tc": 723,
+        "Pc": 14,
+        "Vc": 916.58,
+        "Zc": 0.213,
+        "omega": 0.717,
+        "HC": 2.1250,
+        "ita_c": 217.66328885675253
+    },
+    {
+        "identifier": {
+            "cas": "15869-85-9",
+            "name": "5-methylnonane",
+            "iupac_name": "5-methylnonane",
+            "smiles": "5-methylnonane",
+            "inchi": "5-methylnonane",
+            "formula": "C10H22"
+        },
+        "molarweight": 142.285,
+        "Tc": 606.56,
+        "Pc": 22.51,
+        "Vc": 560.42,
+        "Zc": 0.0,
+        "omega": 0.426,
+        "HC": 2.2000,
+        "ita_c": 273.01147468675805
+    },
+    {
+        "identifier": {
+         "cas": "6975-98-0",
+            "name": "2-methyldecane",
+            "iupac_name": "2-methyldecane",
+            "smiles": "CCCCCCCCC(C)C",
+            "inchi": "InChI=1S/C11H24/c1-4-5-6-7-8-9-10-11(2)3/h11H,4-10H2,1-3H3",
+            "formula": "C11H24"
+        },
+        "molarweight": 156.312,
+        "Tc": 629.35,
+        "Pc": 20.64,
+        "Vc": 623.15,
+        "Zc": 0.0,
+        "omega": 0.484,
+        "ita_c": 277.1739049931662
+    },
+    {
+        "identifier": {
+            "cas": "1002-43-3",
+            "name": "3-methylundecane",
+            "iupac_name": "3-methylundecane",
+            "smiles": "CCCCCCCCC(C)CC",
+            "inchi": "InChI=1S/C12H26/c1-4-6-7-8-9-10-11-12(3)5-2/h12H,4-11H2,1-3H3",
+            "formula": "C12H26"
+        },
+        "molarweight": 170.338,
+        "Tc": 650.75,
+        "Pc": 19.40,
+        "Vc": 673.82,
+        "Zc": 0.0,
+        "omega": 0.539,
+        "HC": 2.1667,
+        "ita_c": 264.85388409621174
+    },
+    {
+        "identifier": {
+            "cas": "110-82-7",
+            "name": "cyclohexane",
+            "iupac_name": "cyclohexane",
+            "smiles": "C1CCCCC1",
+            "inchi": "InChI=1S/C6H12/c1-2-4-6-5-3-1/h1-6H2",
+            "formula": "C6H12"
+        },
+        "molarweight": 84.161,
+        "Tc": 553.80,
+        "Pc": 40.80,
+        "Vc": 308.00,
+        "Zc": 0.273,
+        "omega": 0.208,
+        "HC": 2,
+        "ita_c": 453.42992094237957
+    },
+    {
+        "identifier": {
+            "cas": "5617-41-4",
+            "name": "heptylcyclohexane",
+            "iupac_name": "heptylcyclohexane",
+            "smiles": "CCCCCCCC1CCCCC1",
+            "inchi": "InChI=1S/C13H26/c1-2-3-4-5-7-10-13-11-8-6-9-12-13/h13H,2-12H2,1H3",
+            "formula": "C13H26"
+        },
+        "molarweight": 182.349,
+        "Tc": 713.11,
+        "Pc": 18.39,
+        "Vc": 767.07,
+        "Zc": 0.0,
+        "omega": 0.583,
+        "HC": 2.0000,
+        "ita_c": 273.1828692452626
+    },
+    {
+        "identifier": {
+            "cas": "292-64-8",
+            "name": "cyclooctane",
+            "iupac_name": "cyclooctane",
+            "smiles": "C1CCCCCCC1",
+            "inchi": "InChI=1S/C8H16/c1-2-4-6-8-7-5-3-1/h1-8H2",
+            "formula": "C8H16"
+        },
+        "molarweight": 112.215,
+        "Tc": 647.20,
+        "Pc": 35.60,
+        "Vc": 410.00,
+        "Zc": 0.271,
+        "omega": 0.252,
+        "HC": 2.0000,
+        "ita_c": 811.1635923278133
+    },
+    {
+        "identifier": {
+            "cas": "108-38-3",
+            "name": "m-xylene",
+            "iupac_name": "1,3-xylene",
+            "smiles": "Cc1cccc(C)c1",
+            "inchi": "InChI=1S/C8H10/c1-7-4-3-5-8(2)6-7/h3-6H,1-2H3",
+            "formula": "C8H10"
+        },
+        "molarweight": 106.167,
+        "Tc": 617.00,
+        "Pc": 35.41,
+        "Vc": 375.00,
+        "Zc": 0.0,
+        "omega": 0.327,
+        "HC": 1.2500,
+        "ita_c": 259.4026551125312
+    },
+    {
+        "identifier": {
+           "cas": "119-64-2",
+            "name": "1,2,3,4-tetrahydronaphthalene",
+            "iupac_name": "1,2,3,4-tetrahydronaphthalene",
+            "smiles": "c1ccc2c(c1)CCCC2",
+            "inchi": "InChI=1S/C10H12/c1-2-6-10-8-4-3-7-9(10)5-1/h1-2,5-6H,3-4,7-8H2",
+            "formula": "C10H12"
+        },
+        "molarweight": 132.205,
+        "Tc": 720.00,
+        "Pc": 36.50,
+        "Vc": 408.00,
+        "Zc": 0.0,
+        "omega": 0.335,
+        "HC": 1.2000,
+        "ita_c": 372.14506083793196
+    },
+    {
+        "identifier": {
+            "cas": "90-12-0",
+            "name": "1-methylnaphthalene",
+            "iupac_name": "1-methylnaphthalene",
+            "smiles": "Cc1cccc2ccccc12",
+            "inchi": "InChI=1S/C11H10/c1-9-5-4-7-10-6-2-3-8-11(9)10/h2-8H,1H3",
+            "formula": "C11H10"
+        },
+        "molarweight": 142.200,
+        "Tc": 772.00,
+        "Pc": 36.00,
+        "Vc": 489.44,
+        "Zc": 0.0,
+        "omega": 0.342,
+        "HC": 0.9091,
+        "ita_c": 336.9545960562438
+    },
+    {
+        "identifier": {
+            "cas": "124-38-9",
+            "name": "carbon dioxide",
+            "iupac_name": "carbon dioxide",
+            "smiles": "C(=O)=O",
+            "inchi": "InChI=1S/CO2/c2-1-3",
+            "formula": "CO2"
+        },
+        "molarweight": 44.01,
+        "Tc": 304.19,
+        "Pc": 73.82,
+        "Vc": 94,
+        "Zc": 0.274,
+        "omega": 0.2276,
+        "ita_c": 0.0
+    },
+    {
+        "identifier": {
+            "cas": "108-88-3",
+            "name": "toluene",
+            "iupac_name": "toluene",
+            "smiles": "Cc1ccccc1",
+            "inchi": "InChI=1S/C7H8/c1-7-5-3-2-4-6-7/h2-6H,1H3"
+        },
+        "molarweight": 92.141,
+        "model_record": {
+            "m": 2.78719,
+            "sigma": 3.72273,
+            "epsilon_k": 287.51747
+        },
+        "Tc": 591.75,
+        "Pc": 41.08,
+        "Vc": 316,
+        "Zc": 0.264,
+        "omega": 0.264,
+        "HC": 1.1429,
+        "ita_c": 303.88427479311923
+    },
+    {
+        "identifier": {
+            "cas": "4390-04-9",
+            "name": "2,2,4,4,6,8,8-heptamethylnonane",
+            "iupac_name": "2,2,4,4,6,8,8-heptamethylnonane",
+            "smiles": "CC(CC(C)(C)C)CC(C)(C)CC(C)(C)C",
+            "inchi": "InChI=1S/C16H34/c1-13(10-14(2,3)4)11-16(8,9)12-15(5,6)7/h13H,10-12H2,1-9H3"
+        },
+        "molarweight": 226.446,
+        "model_record": {
+            "m": 5.44878,
+            "sigma": 4.19257,
+            "epsilon_k": 255.98331
+        },
+        "Tc": 692.0,
+        "Pc": 15.7,
+        "Vc": 862.76,
+        "Zc": 0.225,
+        "omega": 0.548,
+        "HC": 2.1250,
+        "ita_c": 393.85311793705205
+    },
+    {
+        "identifier": {
+            "cas": "108-87-2",
+            "name": "methylcyclohexane",
+            "iupac_name": "methylcyclohexane",
+            "smiles": "CC1CCCCC1",
+            "inchi": "InChI=1S/C7H14/c1-7-5-3-2-4-6-7/h7H,2-6H2,1H3"
+        },
+        "molarweight": 98.188,
+        "model_record": {
+            "m": 2.66045,
+            "sigma": 3.9956,
+            "epsilon_k": 282.31227
+        },
+        "Tc": 572.10,
+        "Pc": 34.80,
+        "Vc": 369.00,
+        "Zc": 0.270,
+        "omega": 0.236,
+        "HC": 2,
+        "ita_c": 421.4603725845661
+    },
+    {
+        "identifier": {
+            "cas": "1678-93-9",
+            "name": "n-butylcyclohexane",
+            "iupac_name": "butylcyclohexane",
+            "smiles": "CCCCC1CCCCC1",
+            "inchi": "InChI=1S/C10H20/c1-2-3-7-10-8-5-4-6-9-10/h10H,2-9H2,1H3"
+        },
+        "molarweight": 140.269,
+        "model_record": {
+            "m": 3.73574,
+            "sigma": 4.00758,
+            "epsilon_k": 279.99563
+        },
+        "Tc": 648.16,
+        "Pc": 24.53,
+        "Vc": 550.87,
+        "Zc": 0.251,
+        "omega": 0.417,
+        "HC": 2.0000,
+        "ita_c": 326.2866531142882
+    },
+    {
+        "identifier": {
+            "cas": "104-51-8",
+            "name": "butylbenzene",
+            "iupac_name": "butylbenzene",
+            "smiles": "CCCCc1ccccc1",
+            "inchi": "InChI=1S/C10H14/c1-2-3-7-10-8-5-4-6-9-10/h4-6,8-9H,2-3,7H2,1H3"
+        },
+        "molarweight": 134.221,
+        "model_record": {
+            "m": 3.6872,
+            "sigma": 3.88563,
+            "epsilon_k": 286.52262
+        },
+        "Tc": 660.50,
+        "Pc": 28.90,
+        "Vc": 497.00,
+        "Zc": 0.262,
+        "omega": 0.394,
+        "HC": 1.4000,
+        "ita_c": 273.10901176001187
+    },
+    {
+        "identifier": {
+            "cas": "493-02-7",
+            "name": "trans-decahydronaphthalene",
+            "iupac_name": "1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene",
+            "smiles": "C1CC[C@H]2CCCC[C@@H]2C1",
+            "inchi": "InChI=1/C10H18/c1-2-6-10-8-4-3-7-9(10)5-1/h9-10H,1-8H2/t9-,10-"
+        },
+        "molarweight": 138.253,
+        "model_record": {
+            "m": 3.04287,
+            "sigma": 4.18444,
+            "epsilon_k": 319.77343
+        },
+        "Tc": 687.00,
+        "Pc": 26.58,
+        "Vc": 540.24,
+        "Zc": 0.251,
+        "omega": 0.408,
+        "HC": 1.8000,
+        "ita_c": 398.8258306153923
+    },
+    {
+        "identifier": {
+            "cas": "540-84-1",
+            "name": "2,2,4-trimethylpentane",
+            "iupac_name": "2,2,4-trimethylpentane",
+            "smiles": "CC(C)CC(C)(C)C",
+            "inchi": "InChI=1S/C8H18/c1-7(2)6-8(3,4)5/h7H,6H2,1-5H3"
+        },
+        "molarweight": 114.231,
+        "model_record": {
+            "m": 3.04287,
+            "sigma": 4.18444,
+            "epsilon_k": 319.77343
+        },
+        "Tc": 543.80,
+        "Pc": 25.70,
+        "Vc": 468.00,
+        "Zc": 0.266,
+        "omega": 0.303,
+        "HC": 2.25
+    },
+    {
+        "identifier": {
+            "cas": "2958-75-0",
+            "name": "1-methyldecalin",
+            "iupac_name": "1-methyldecalin",
+            "smiles": "1-methyldecalin",
+            "inchi": "1-methyldecalin"
+        },
+        "molarweight": 152.281,
+        "model_record": {
+            "m": 1,
+            "sigma": 1,
+            "epsilon_k": 1
+        },
+        "Tc": 697,
+        "Pc": 27.00,
+        "Vc": 549.75,
+        "Zc": 0.0,
+        "omega": 0.331,
+        "HC": 1.818,
+        "ita_c": 532.0962759022882
+    },
+    {
+        "identifier": {
+            "cas": "17302-24-8",
+            "name": "2,4-dimethylnonane",
+            "iupac_name": "2,4-dimethylnonane",
+            "smiles": "CCCCCC(C)CC(C)C",
+            "inchi": "InChI=1S/C11H24/c1-5-6-7-8-11(4)9-10(2)3/h10-11H,5-9H2,1-4H3"
+        },
+        "molarweight": 156.313,
+        "model_record": {
+            "m": 5.0097,
+            "sigma": 3.8338,
+            "epsilon_k": 237.31989
+        },
+        "Tc": 621.3,
+        "Pc": 19.7,
+        "Vc": 668.58,
+        "Zc": 0.0,
+        "omega": 0.499,
+        "HC": 2.182,
+        "ita_c": 220.3827969
+    },
+    {
+        "identifier": {
+            "cas": "2825-82-3",
+            "name": "exo-tricyclo[5.2.1.0(2,6)]decane",
+            "iupac_name": "(1r,2s,6r,7s)-tricyclo[5.2.1.02,6]decane",
+            "smiles": "C1C[C@@H]2[C@H]3CC[C@H](C3)[C@@H]2C1",
+            "inchi": "InChI=1/C10H16/c1-2-9-7-4-5-8(6-7)10(9)3-1/h7-10H,1-6H2/t7-,8+,9+,10-"
+        },
+        "molarweight": 136.238,
+        "model_record": {
+            "m": 3.14563,
+            "sigma": 4.06407,
+            "epsilon_k": 314.30869
+        },
+        "Tc": 678,
+        "Pc": 35,
+        "Vc": 460.26,
+        "Zc": 0.0,
+        "omega": 0.369,
+        "HC": 1.6,
+        "ita_c": 438.93694838170455
+    },
+    {
+        "identifier": {
+            "cas": "74-85-1",
+            "name": "ethylene",
+            "iupac_name": "ethylene",
+            "smiles": "C=C",
+            "inchi": "InChI=1S/C2H4/c1-2/h1-2H2",
+            "formula": "C2H4"
+        },
+        "molarweight": 28.054,
+        "Tc": 282.34,
+        "Pc": 50.41,
+        "Vc": 131.00,
+        "Zc": 0.281,
+        "omega": 0.086,
+        "HC": 2
+    }
+]
